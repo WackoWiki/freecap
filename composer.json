@@ -1,6 +1,11 @@
 {
 	"name" : "wackowiki/freecap",
 	"description" : "freeCap CAPTCHA library",
+	"keywords": [
+		"abuse",
+		"captcha",
+		"spam"
+	],
 	"type" : "library",
 	"license" : "GPL-2.0-or-later",
 	"minimum-stability" : "stable",
